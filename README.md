@@ -39,8 +39,7 @@ API Keys
 
 To use the Chat GPT and Dall-E APIs, you need to obtain API keys and add them to the app's api_key.dart file. The file should contain the following keys:
 
-const String chatGptApiKey = '<your_chat_gpt_api_key_here>';
-const String dallEApiKey = '<your_dall_e_api_key_here>';
+String apiKey = '<your_chat_gpt_api_key_here>';
 
 Credits
 
