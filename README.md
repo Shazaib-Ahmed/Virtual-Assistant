@@ -43,7 +43,7 @@ String apiKey = '<your_chat_gpt_api_key_here>';
 
 Credits
 
-This app was created by [your name or organization name here]. The app uses the following libraries and APIs:
+The app uses the following libraries and APIs:
 
     Flutter
     Chat GPT API
